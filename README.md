@@ -20,10 +20,13 @@ The user interface can be improvised further. More functionality can be inculcat
 Some images:
 
 ![image](https://github.com/user-attachments/assets/8573e8c8-a8ed-4c0f-a8c1-84022c8c6524)
+
 This is the landing page
 
 ![image](https://github.com/user-attachments/assets/7c6c6644-4e7d-4298-a7cd-31f2fb1a0cfe)
+
 The Update Operation
 
 ![image](https://github.com/user-attachments/assets/df78b309-339e-409a-9539-6d1a149b61c1)
+
 The Delete Operation
